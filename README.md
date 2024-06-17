@@ -1,3 +1,3 @@
 # Complete Approximations of Incomplete Queries
 
-This query contain the supplementary material of our paper: Complete Approximations of Incomplete Queries
+The repository contains the supplementary material for our paper: Complete Approximations of Incomplete Queries
